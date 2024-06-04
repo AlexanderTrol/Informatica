@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include<math.h>
 #include<limits.h>
+
 int main(){
     int N=0, i=0;
     int dati[50];
