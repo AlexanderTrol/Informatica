@@ -1,0 +1,13 @@
+Nome: Alessandro
+Cognome: Ausili Popa
+Età: 22
+Nome: Sara
+Cognome: Colombo
+Età: 19
+Nome: Simone
+Cognome: Acuti
+Età: 20
+
+Nome: Alessio
+Cognome: Ganzarolli
+Età: 21
